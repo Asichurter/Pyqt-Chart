@@ -1,0 +1,22 @@
+{
+    "MaxFileSize": 200,
+    "ValueVisible": true, 
+    "DifferentialVisible": true,
+    "IntegrateVisible": true, 
+    "ValueMarker": true, 
+    "DifferentialMarker": true, 
+    "IntegrateMarker": true, 
+    "ShowGrid": true, 
+    "PlotBgColor": [0, 0, 0], 
+    "PlotCurveColor": [255, 255, 255], 
+    "Marker": "o",
+    "MarkerColor": [255, 0, 0], 
+    "WindowWidth": 1800,
+    "WindowHeight": 900,
+    "PlotWidth": 1500,
+    "PlotHeight": 250,
+    "LabelOneFontStyle": "QLabel{color:rgb(0,0,200,255);font-size:20px;font-weight:normal;font-family:Arial;}", 
+    "LabelTwoFontStyle": "QLabel{color:rgb(0,0,0,255);font-size:15px;font-weight:normal;font-family:Arial;}", 
+    "LabelThreeFontStyle": "QLabel{color:rgb(0,0,0,255);font-size:18px;font-weight:normal;font-family:Arial;}",
+    "IconPath": "icon.png"
+}
