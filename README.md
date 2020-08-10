@@ -2,7 +2,7 @@
 A file binary sequence visualization program using pyqt5 and pyqtgraph
 
 ## Sample Figure
-![](demo.png)
+![](https://github.com/Asichurter/Pyqt-Chart/blob/master/demo.PNG)
 
 ## Requirement
 - Python 3.6+
